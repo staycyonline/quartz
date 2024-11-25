@@ -175,7 +175,7 @@ curl -v http://169.254.169.254/latest/meta-data/iam/security-credentials/web01 -
   "Code" : "Success",
   "LastUpdated" : "2023-07-21T06:11:45Z",
   "Type" : "AWS-HMAC",
-  "AccessKeyId" : "ASIAUKJ5LF7NN37KRS6L",
+  "AccessKeyId" : "",
   "SecretAccessKey" : "",
   "Token" : "IQoJb3JpZ2luX2VjEC4aCXVzLWVhc3QtMiJHMEUCIG/S39HEDd2ZCgyP6Kw4UEKzgINlqBzBdW9QykIiXc6/AiEAy5kUUSlQhtaNDzk9iCpf5DRNoC63VdYhGw2QQFOER0kqwQUIt///////////ARAAGgwyOTcwMTgyNzM3NTQiDMHUiMDCFmDaCgcx2CqVBax5pi2edO1lIKROF7qzKjg0sWuqzXC6UtL5ce6ZFPpKRiAtQ5wzcineGc5mBsn4CnTbxW8AslcqSjIE2KYObnyCcXOiPUfgsTdKHRHt0WGqqWgtibbpY+cV9A85o8wQHGHQ/BGCkV9yugl5r2G12UyPWSBP9G/mk3Y+GVzp7alXGCYSDkPd+vIxh4RnPyU8uAkorE+8H2TU90AKpj8/SSEcTW9micE5jaoncSOP8AeqP8/1P1usYsSPXFL0DLwa3UXpyxL+Y8soEkkmtUP+2HoWKDkUe7nwOe0Axput7d9DVsmN5hrpfd+MLGy6iSFEFbAvC5I6pz9vSBIF+o7J/1dHndH4Ssf2w/8uq/WrQFabDMdF+aPxk5WqQgtBly15sthsqzTK0szhJg9f/VORwaVEuTWg28+6sl9jMnEZOo0/8IfhXvvt7TPD16eBHeQMDr3/Bz9/5Whm8vTSwv7hDircDE1eTZwr4obqmGGbb7nw2M21v+41XmtTRdAwxnxxzMgagD0pFpbBAe1E7h613lDyMUaMTEZ3YdgEtSCBVBnIG/nsRGq6awDpSjAyQCF/dt+OIlSFeVIAiCOxfe2L5A59KuyzH5f9kqww62CjyxtWxN3foycT/70bj0lODj9GA0keexwTw/Ls5TcDDSQZqXnSxWXqicM9JzDX5CZjhIEIGWjqdsBxy2uY6fytciFCUpBajkQig1p4bwuSepsFSt5jesEm6ChDCB9wjnTZx93Om29PXDckz/wSJDOHvins7UVF6aU2vMPtu2cLsIS3h4akulKyycSu6uV9IUhyL9eNEb0Alm2btT2CNuuZoXwFb+c0Cega/hyynrXmJm0opL8kkBd16vA2iUGznrhtR6FvuJln6oQwmcPopQY6sQFe+IXQoVoof5UUWeKJnJlmSZHiTwwNipi0FeEgyyeeY+O+FdihVNMNXcTO8bCfC+Hbkxb8KEXo7CQMLwh1xkydSLqVKTalBO6UpC6OCUHGOqdvBm7D3i6rACxFCEe0e1PV4l25yaRmLlwQvDb+2oGs1HciAQrX51aooz1ktLiIWF3dDp3M9FxQzZwbfMk/IHGSqMPONwfg5RjQaxHuMc770HYEAC0UkK8tRXx8D0E7Tz0=",
   "Expiration" : "2023-07-21T12:22:59Z"
