@@ -21,8 +21,8 @@ Lets revert to the pervious commit (make sure you are outside the .git folder)
 
 we see the access keys 
 
->access_key AKIAJ366LIPB4IJKT7SA
-secret_access_key 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
+>access_key 
+secret_access_key 
 
 Let us configure a profile named flaws using the keys
 
