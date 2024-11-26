@@ -11,7 +11,7 @@ Add Additional Params that can help retrieve/ consolidate information
 
 ## Summary 
 ---
-> [! info] This is a sample summary of the page. This page provides an easy to start with template which can be used to record information and additional tags and attributes which link this info with other notes 
+> [!info] This is a sample summary of the page. This page provides an easy to start with template which can be used to record information and additional tags and attributes which link this info with other notes 
 
 ## Hackers Question Everything
 ---
