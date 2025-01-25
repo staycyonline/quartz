@@ -1,7 +1,7 @@
 
 Tags: #android #architecture 
 Related to: #mobile #hacking #bug-bounty #system #security
-See also: [[Signatures in Android App]]
+See also: [[Signatures in Android App]] [[Android Applications]]
 
 # Summary
 ---

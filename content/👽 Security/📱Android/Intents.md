@@ -9,6 +9,6 @@ Overview of Intents in Android app
 #### Intents
 - Intents facilitate communication between different components
 - They deal with changing activities, invoke activities, starting services etc.
-- [[Intent Filters 1]]
+- [[Intent Filters]]
 
 ###### References  (optional )

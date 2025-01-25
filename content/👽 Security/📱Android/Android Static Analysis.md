@@ -25,23 +25,32 @@ or use jadx gui
 ---
 
 gets a decoded folder
-
+asset folders have images, spl fonts
+kotlin some source code is found depending on the app
 lib to inject objects
-
-.so files might have keys
+ - .so files might have keys
 
 original has android manifest.xml
-
 smali - has app src code
-
+ - dex to jar - smalli to human readable form
 ---
 Hardcoded strings
 
-resources/strings.xml
+resources/strings.xml and xmls.xml
 
 can be found in activity source code
 
-google api keys can cost money to perople
+google api keys can cost money to people
+
+search for keywords like
+- id
+- password
+- api
+- http
+- https
+- key
+- clientid
+- clientsecret
 
 look for urls, buckets, keys,, secrets
 
