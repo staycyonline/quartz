@@ -11,4 +11,19 @@ https://codeshare.frida.re/ - get scripts for frida
 ---
 ![[Pasted image 20250201124351.png]]
 ![[Pasted image 20250201124500.png]]
-![[Pasted image 20250201124531.png]]
+
+## Data in PList
+---
+
+![[Pasted image 20250201124531.png]]![[Pasted image 20250201143832.png]]
+![[Pasted image 20250201144713.png]]
+
+## data in nsuserdefaults
+---
+
+![[Pasted image 20250201145014.png]]
+
+## Keychain Dump
+---
+
+![[Pasted image 20250201151119.png]]
