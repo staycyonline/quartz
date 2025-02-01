@@ -6,3 +6,6 @@ get serial number
 frida -D Device_serial DVIA-v2
 
 objection -S Device_serial -g DVIA-v2 explore
+
+https://codeshare.frida.re/ - get scripts for frida
+
