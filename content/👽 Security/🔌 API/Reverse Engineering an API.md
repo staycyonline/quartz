@@ -29,3 +29,9 @@ Refer this - https://university.apisec.ai/products/apisec-certified-expert/categ
 -  Save the updated spec.yml file and run the mitmproxy2swagger again. This time around add the "--examples" flag to enhance your API documentation
 - Validate the documentation using https://editor.swagger.io/
 - You can import yml file into postman and create a collection
+
+---
+Troubleshooting
+---
+
+mitmproxy filters out localhost traffic in that case add an extra different hostname like test.net for 127.0.0.1 and call the locally hosted API using that

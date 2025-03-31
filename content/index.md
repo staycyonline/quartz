@@ -9,8 +9,8 @@ This is where Staycyonline aka whoismbm aka Midhun B M's second brain resides.
 Like the brain, this place is a mess and is always a 🔧 work in progress. 
 It will never be perfect, but will keep growing. 
 
-![[STAYCY ONLINE (1).png]]
 
+![[StaycyonlineLogo.png]]
 # 🤔How to use
 ---
 

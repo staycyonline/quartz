@@ -9,6 +9,7 @@ Index: [Index of API Hacking](app://obsidian.md/Index%20of%20API%20Hacking)
 Passive recon intro, tools and techniques from [link](https://university.apisec.ai/products/apisec-certified-expert/categories/2150259092/posts/2157852412)
 
 #### Content
+
 - Leverages osint
 - Look for endpoints, access tokens,exposed creds,version info, APi documentation.APis business purpose
 - creds can help me test as an auth user or admin, version can help me know about improper assets and other past  vuln, documentation csn help me in how to test targets and business logic flaws can be found from business purpose.
@@ -26,6 +27,9 @@ Dorks can get us the info we need
 - Refer [Dork list - Box Piper](https://www.boxpiper.com/posts/google-dork-list)
 
 #### GitDorking
+
+https://github.com/techgaun/github-dorks
+
  - use dorks in github to uncover issues in the target apis.
 	 - read issues and the fixes they have propsed
 	 - look for exposed - harcoded secrets keys
@@ -37,6 +41,8 @@ Dorks can get us the info we need
 	 - if no weakness is found use it to find the language used, endpoint info, usage docs etc
 	 
 #### Shodan
+
+https://github.com/lothos612/shodan
 - Can search for internet exposed APIs and get info 
 - some shodan queries - https://github.com/jakejarvis/awesome-shodan-queries
 

@@ -1,0 +1,4 @@
+- Use app as intended
+- rev engineer to make a collection if not provided already
+- vuln scan using zap, nikto [[scan with zap (manual)]]
+- 
