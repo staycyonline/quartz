@@ -1,0 +1,3 @@
+- Greedy Algorithms
+- Divide and Conquer
+- Dynamic Programming
