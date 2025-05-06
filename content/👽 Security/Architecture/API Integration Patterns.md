@@ -97,7 +97,15 @@ Two types
 
 After verification the PoP token alone can be forwarded to the APIs
 
-# Demonstration of Proof of Possession (DPOP) tokens 
+# Demonstration of Proof of Possession (DPOP) tokens ⚠️
 ---
 
+
+![[Pasted image 20250406183834.png]]
+
+![[Pasted image 20250406183937.png]]
+
+# API Integration patterns
+---
+![[Pasted image 20250406184219.png]]
 
