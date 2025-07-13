@@ -13,7 +13,7 @@ Cookies are usually scoped to a specific domain. If they are scoped to the paren
 HTML
 ---
 
-	[[Pasted image 20240501070654.png]]
+![[Pasted image 20240501070654.png]]
 ![[Pasted image 20240501070706.png]]
 
 ![[Pasted image 20240501070808.png]]
