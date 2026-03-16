@@ -19,12 +19,12 @@ A brief overview of Trusts in AD
 **One-way**: Unidirectional trust
 
 ![[trustdir.png]]
-Direction of access is opposite to firection of trust
+Direction of access is opposite to direction of trust
 
 **Two way**: Bidirectional
 
 ![[trustdirbi.png]]
-_Note: Users must have enough privialges to access the resources_
+_Note: Users must have enough privileges to access the resources_
 
 **Trust transitivity**
 
@@ -65,4 +65,20 @@ Non transitive - cannot be extended to other domains in forests can be oneway or
 		- This doesnt necessarily imply forest 1 trusts forest 3
 		
 ![[foresttrust.png]]
+
+
+list domain trusts
+list trusts for child or parent domains
+list details about current forests
+we can enumerate stuff from trusted domain / forests
+map trusts of forest
+get all global catalogs in current forest
+
+**Learning Objective 4**
+
+
+
+
+
+
 ###### References  (optional )

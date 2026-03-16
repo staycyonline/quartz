@@ -31,4 +31,14 @@ A brief overview of what the content is
 - AccessControlType
 - InheritanceFlags
 - ObjectID - SID of Object
+
+ACE - has details of what control an obj have
+
+dacl and sacl are attaractive to atackers
+
+get acl associated with specific obj - no priv required
+
+**Learning obj 3**
+
+
 ###### References  (optional )
