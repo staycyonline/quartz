@@ -17,3 +17,12 @@ Tags: #index #work-log
 [[Access Control Model]]
 [[Trusts]]
 [[User Hunting]]
+
+2026-04-08
+[[Local Privilage Escalation]]
+[[Privilage Escalation using Feature Abuse]]
+
+2026-04-12
+[[Domain Enumeration using Bloodhound]]
+[[Lateral Movement]]
+[[Domain Persistence]]

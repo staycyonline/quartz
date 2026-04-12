@@ -1,13 +1,22 @@
-# Domain Enumeration using Bloodhound
+
 Tags: #bloodhound #enumeration 
 Related to: #crtp #Active-Directory
 See also: 
 Index: [[CRTP/🗂️ Index of CRTP]] 
 
-#### Summary
-Add a brief overview of what the content is
+Bloodhound has GUI to finding shortest path to domain admin
 
-#### Content
-Add the actual content. Explain what is it. Explain process, techniques and ideas as simple as possible 
+Has various extensions and tools
+Bloodhound is useful and noisy - useful for PT but not necessarily redteam
 
-###### References  (optional )
+- Ingestors - data collectors (master)
+- GUI - analyze collected data. (gui)
+- both can be in different machines
+
+Provides a snapshot / state of the network at that point in time
+
+Queries
+builtin and custom
+
+LO6
+

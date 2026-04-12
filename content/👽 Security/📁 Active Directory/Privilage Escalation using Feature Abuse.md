@@ -18,4 +18,8 @@ We can locally escalate privilages by exploiting features of popular enterprise 
 - If we dont have admin access we can check if accounts have configure access to configure a build in some project - by which we can run OS level commands and windows batch commands
 - We can reorder build steps to make our script run first before others if build is successful
 
+
+LO 5
+
+
 ###### References  (optional )

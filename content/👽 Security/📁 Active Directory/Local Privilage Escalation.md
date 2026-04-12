@@ -1,4 +1,4 @@
-# Local Privilage Escalation
+# 
 Tags: #privilage-escalation #Active-Directory 
 Related to: #hacking, #crtp 
 See also: 
@@ -20,5 +20,15 @@ Add a brief overview of what the content is
 	- [PowerUp](https://github.com/PowerShellMafia/PowerSploit/blob/master/Privesc/PowerUp.ps1)
 	- [BeRoot](https://github.com/AlessandroZ/BeRoot)
 	- [Privesc](https://github.com/enjoiz/Privesc)
+
+  
+Service issues will be covered in the course
+- unquoted path (bin path uses unquoted path - we drop exe in the path)
+	- the path should run with higher capability
+	- great if we can restart manually
+- user can write to binary path or arguments
+- services where configurations / permissions can be modified
+
+  
 
 ###### References  (optional )
